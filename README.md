@@ -21,4 +21,4 @@ This landing page was built for a real-estate agency [Lucas Fox](https://www.luc
 
 ## Live Preview
 
-[View the website](https://kristinaborivskadev-cloud.github.io/real-estate-agency-landing-page/)
+[View the landing page](https://kristinaborivskadev-cloud.github.io/real-estate-agency-landing-page/)
